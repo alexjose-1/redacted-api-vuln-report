@@ -40,6 +40,7 @@ No sensitive files (e.g., .env, .git) were discovered during this phase.
 
 
 3. 🧪 Vulnerability Testing
+
 💀 3.1 Reflected XSS (Unconfirmed)
 Test Area: Contact Form
 

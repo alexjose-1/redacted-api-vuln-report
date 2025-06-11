@@ -1,4 +1,4 @@
-# redacted-api-vuln-report
+# Redacted-api-vuln-report
 “Redacted penetration test write-up of a web application”
 🔍 Manual Penetration Test Report – [REDACTED TARGET]
 📅 Date of Test: June 2025
